@@ -1,2 +1,0 @@
-# vikas
-flipkart clone
